@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller builds y ejecutables
+build/
+dist/
+*.manifest
+
+# Backups y temporales de edición
+backups/
+*.bak
+*_tmp*
+_tmp*
+_respaldo_tmp.py
+main.2026.py
+
+# Pruebas y entornos
+.pytest_cache/
+.vscode/
+.idea/
+.venv/
+venv/
+
+# Sistema y logs
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
